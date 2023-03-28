@@ -8,7 +8,7 @@
 
  import java.util.Scanner;
 
- public class JavaHW7 {
+ public class JavaHW5 {
     
 public static void drawArt() {
     for (int i = 300; i>0; i--)
